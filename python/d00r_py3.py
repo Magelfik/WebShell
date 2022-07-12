@@ -22,7 +22,7 @@ import os, sys, socket, time
 
 # =================== var =======
 MAX_LEN=1024
-SHELL="/bin/zsh -c"
+SHELL="/bin/bash -c"
 TIME_OUT=300 #s
 PW=""
 PORT=""
